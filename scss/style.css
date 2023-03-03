@@ -77,4 +77,5 @@ body {
 .services {
   display: flex;
   flex-direction: row;
+  padding-left: 5%;
 }/*# sourceMappingURL=style.css.map */
