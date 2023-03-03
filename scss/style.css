@@ -78,4 +78,20 @@ body {
   display: flex;
   flex-direction: row;
   padding-left: 5%;
+}
+
+.contact__title {
+  padding-right: 50%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
+}
+
+.contact__label {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.contact {
+  padding-bottom: 10%;
 }/*# sourceMappingURL=style.css.map */
