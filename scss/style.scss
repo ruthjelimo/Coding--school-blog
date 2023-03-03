@@ -1,0 +1,63 @@
+@import 'config';
+
+.header__nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top:-2%;
+
+ul{
+  display:flex;
+}
+
+li{
+  list-style-type: none;
+  padding: 10px;
+ 
+}
+h2{
+  padding-right: 35%;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: mediumpurple;
+}
+}
+
+.home__title{
+  padding-right: 38%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
+}
+.dev{
+  font-size: large;
+}
+.home{
+  display: flex;
+  flex-direction: row;
+  .students{
+    padding-left: 25%;
+  }
+}
+.footer{
+  padding-top: 10%;
+  padding-left: 30%;
+}
+body{
+  background-color:$primary-color ;
+}
+.about__title{
+  padding-right: 50%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
+}
+.description{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+}

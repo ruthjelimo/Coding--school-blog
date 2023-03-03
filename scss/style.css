@@ -1,0 +1,64 @@
+.header__nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -2%;
+}
+.header__nav ul {
+  display: flex;
+}
+.header__nav li {
+  list-style-type: none;
+  padding: 10px;
+}
+.header__nav h2 {
+  padding-right: 35%;
+}
+.header__nav a {
+  text-decoration: none;
+}
+.header__nav a:hover {
+  color: mediumpurple;
+}
+
+.home__title {
+  padding-right: 38%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
+}
+
+.dev {
+  font-size: large;
+}
+
+.home {
+  display: flex;
+  flex-direction: row;
+}
+.home .students {
+  padding-left: 25%;
+}
+
+.footer {
+  padding-top: 10%;
+  padding-left: 30%;
+}
+
+body {
+  background-color: gray;
+}
+
+.about__title {
+  padding-right: 50%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+}/*# sourceMappingURL=style.css.map */
