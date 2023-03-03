@@ -68,4 +68,13 @@ body {
   font-size: larger;
   color: sandybrown;
   margin-top: 6%;
+}
+
+#online {
+  font-weight: bold;
+}
+
+.services {
+  display: flex;
+  flex-direction: row;
 }/*# sourceMappingURL=style.css.map */
