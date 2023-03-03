@@ -61,4 +61,11 @@ body {
   flex-direction: column;
   padding-left: 10%;
   padding-right: 10%;
+}
+
+.services__title {
+  padding-right: 50%;
+  font-size: larger;
+  color: sandybrown;
+  margin-top: 6%;
 }/*# sourceMappingURL=style.css.map */
